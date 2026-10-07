@@ -3,21 +3,21 @@
     <img src="img/maiden-gazing-green-eyes.png" alt="Wisteria Maiden" width="100%" height="425">
 </div>
 
-# <p align="center">🌸 Algorithms: The Art of Finding and Solving 🌸</p>
+<h1 align="center">🌸 Algorithms: The Art of Finding and Solving 🌸</h1>
 
-## Practice: Searching, organizing, and solving problems step by step
+### Practice: Searching, organizing, and solving problems step by step
 
 ### Understanding Algorithms: Learning how to design systemic approaches to find data and solve problems efficiently
 
 <hr>
 
-## <p align="center">💫 Overview</p>
+<h2 align="center">💫 Overview</h2>
 
 - [ ] <b>Algorithms</b> are step-by-step procedures for solving problems. They are the recipes that transform raw data into answers.In this lecture, I learned that algorithms are not abstract concepts reserved for computer scientist for they are practical tools I use every day. Whether I am searching for a name in a phonebook, drawing a pyramid, or deciding between iteration and recursion, algorithms shape how I approach problems. The beauty of algorithms is that there is often more than one way to solve a problem, and choosing the right approach makes all the difference.
 
 <hr>
 
-## <p align="center">🎨 Key Design Features</p>
+<h2 align="center">🎨 Key Design Features</h2>
 
 - [ ] <b>Linear Search</b>
     - [ ] Check each element one by one from start to finish until the target is found or the list ends.
@@ -43,7 +43,7 @@
 
 <hr>
 
-## <p align="center">🔍 Simple Practice: Real-World Thinking in C</p>
+<h2 align="center">🔍 Simple Practice: Real-World Thinking in C</h2>
 
 - [ ] Before this lecture, I thought searching meant using some built-in function. Now I understand that I can build my own search algorithms. Linear search is like looking for a book on a messy shelf, as in I check each spine until I find the one I want.
 - [ ] Comparing strings tripped me up at first. I kept trying to use `==` like I would with integers. Then I learned that strings are arrays of characters, so comparing them means comparing each character one by one. `strcmp()` does this for me, and understanding why made the function feel less like magic.
@@ -53,7 +53,7 @@
 
 <hr>
 
-## <p align="center">👩🏾‍💻 C Code Outline</p>
+<h2 align="center">👩🏾‍💻 C Code Outline</h2>
 - [ ] <b>Linear Search for Integers</b>:
     - [ ] Searching through an array of numbers one by one to find a match.
 
@@ -326,7 +326,7 @@
 
 <hr>
 
-## <p align="center">✨ Encompassed Technologies</p>
+## <h2 align="center">✨ Encompassed Technologies</h2>
 
 - [ ] <b>C Programming Language:</b>
     - [ ] The foundation that gives me the tools to implement algorithms directly. From loops and conditionals to recursion and custom data types, C teaches me how algorithms actually work under the hood.
