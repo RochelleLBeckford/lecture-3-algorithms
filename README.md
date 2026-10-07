@@ -5,9 +5,9 @@
 
 <h1 align="center">🌸 Algorithms: The Art of Finding and Solving 🌸</h1>
 
-### Practice: Searching, organizing, and solving problems step by step
+<h3>Practice: Searching, organizing, and solving problems step by step</h3>
 
-### Understanding Algorithms: Learning how to design systemic approaches to find data and solve problems efficiently
+<h3>Understanding Algorithms: Learning how to design systemic approaches to find data and solve problems efficiently</h3>
 
 <hr>
 
