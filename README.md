@@ -1,6 +1,6 @@
 <!-- & This creates a banner for the ReadMe -->
 <div align="center">
-    <img src="img/maiden-gazing-green-eyes.png" alt="Wisteria Maiden" width="90%" height="530">
+    <img src="img/maiden-gazing-green-eyes.png" alt="Wisteria Maiden" width="95%" height="475">
 </div>
 
 # <p align="center">🌸 Algorithms: The Art of Finding and Solving 🌸</p>
